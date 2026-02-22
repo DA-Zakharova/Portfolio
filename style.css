@@ -62,6 +62,8 @@ li {
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    text-align: center;
+    text-decoration: none;
 }
 
 .cv:hover {
@@ -101,7 +103,8 @@ li {
 }
 
 .icon {
-    width: 90px;
+    width: 100px;
+    height: 100px;
 }
 
 .blockTwo {
