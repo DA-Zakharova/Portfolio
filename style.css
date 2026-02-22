@@ -252,6 +252,11 @@ li {
         font-size: 25px;
     }
 
+    .cv {
+        text-decoration: none;
+        text-align: center;
+    }
+
     .blockOne {
         display: flex;
         flex-direction: column;
